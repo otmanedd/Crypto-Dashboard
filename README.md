@@ -1,6 +1,6 @@
 # CryptoDyaf
 
-CryptoDyaf is a user-friendly cryptocurrency dashboard that allows you to visualize and analyze various cryptocurrency data. With CryptoMate, you can explore market trends, track price changes, and compare different cryptocurrencies effortlessly.
+CryptoDyaf is a user-friendly cryptocurrency dashboard that allows you to visualize and analyze various cryptocurrency data. With CryptoDyaf, you can explore market trends, track price changes, and compare different cryptocurrencies effortlessly.
 
 ## Features
 
