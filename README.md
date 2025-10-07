@@ -16,10 +16,8 @@ CryptoDyaf is a user-friendly cryptocurrency dashboard that allows you to visual
 
 ![CryptoDyaf Video Vorschau](https://github.com/otmanedd/Crypto-Dashboard/blob/main/CryptoDyaf-video-ezgif.com-video-to-gif-converter.gif)
 
-](https://github.com/otmanedd/Crypto-Dashboard/blob/main/CryptoDyaf-video.mp4
-)
-![image](https://github.com/sneha-4-22/CryptoMate/assets/112711068/10345c77-5039-4d13-93ea-1d9ea07e505b)
-![image](https://github.com/sneha-4-22/CryptoMate/assets/112711068/8e998647-8b0a-45c4-ab9b-91e019ba875f)
+
+
 
 ## Usage
 
