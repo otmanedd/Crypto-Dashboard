@@ -12,8 +12,8 @@ CryptoDyaf is a user-friendly cryptocurrency dashboard that allows you to visual
 - **Interactive Visualization**: Explore pie charts based on your filters, enabling deeper analysis and insights.
 ## App Preview
 
-https://github.com/sneha-4-22/CryptoMate/assets/112711068/52fa1442-ab55-4aed-9fbb-c4433769d67f
-
+](https://github.com/otmanedd/Crypto-Dashboard/blob/main/CryptoDyaf-video.mp4
+)
 ![image](https://github.com/sneha-4-22/CryptoMate/assets/112711068/10345c77-5039-4d13-93ea-1d9ea07e505b)
 ![image](https://github.com/sneha-4-22/CryptoMate/assets/112711068/8e998647-8b0a-45c4-ab9b-91e019ba875f)
 
@@ -22,7 +22,7 @@ https://github.com/sneha-4-22/CryptoMate/assets/112711068/52fa1442-ab55-4aed-9fb
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/sneha-4-22/CryptoMate.git
+    git clone https://github.com/otmanedd/Crypto-Dashboard.git
     ```
 2. Set up virtual env 
 3. Install the necessary dependencies:
