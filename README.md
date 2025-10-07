@@ -12,6 +12,10 @@ CryptoDyaf is a user-friendly cryptocurrency dashboard that allows you to visual
 - **Interactive Visualization**: Explore pie charts based on your filters, enabling deeper analysis and insights.
 ## App Preview
 
+## 🎥 App Vorschau
+
+<video src="https://github.com/otmanedd/Crypto-Dashboard/raw/main/CryptoDyaf-video.mp4" controls width="700"></video>
+
 ](https://github.com/otmanedd/Crypto-Dashboard/blob/main/CryptoDyaf-video.mp4
 )
 ![image](https://github.com/sneha-4-22/CryptoMate/assets/112711068/10345c77-5039-4d13-93ea-1d9ea07e505b)
