@@ -26,22 +26,30 @@ CryptoDyaf is a user-friendly cryptocurrency dashboard that allows you to visual
     ```bash
     git clone https://github.com/otmanedd/Crypto-Dashboard.git
     ```
-2. Set up virtual env 
-3. Install the necessary dependencies:
+2. Set up virtual env
+```
+   source venv/bin/activate
+   ```
+
+4. Install the necessary dependencies:
+```
+pip install pandas
+pip install taipy
+```
 
     ```bash
     pip install -r requirements.txt
     ```
 
-4. Run the `crypto.py` script to launch the CryptoMate dashboard:
+5. Run the `crypto.py` script to launch the CryptoMate dashboard:
 
     ```bash
     taipy run crypto.py
     ```
 
-5. Access the dashboard through your web browser at ...(soon).
+6. Access the dashboard through your web browser at ...(soon).
 
-6. Use the dropdown menus to select cryptocurrencies and explore the data and insights.
+7. Use the dropdown menus to select cryptocurrencies and explore the data and insights.
 
 ## Dependencies
 
