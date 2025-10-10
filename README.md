@@ -17,7 +17,19 @@ CryptoDyaf is a user-friendly cryptocurrency dashboard that allows you to visual
 ![CryptoDyaf Video Vorschau](https://github.com/otmanedd/Crypto-Dashboard/blob/main/CryptoDyaf-video-ezgif.com-video-to-gif-converter.gif)
 
 
+## 🚀 Voraussetzungen
 
+Bevor du startest, stelle sicher, dass Folgendes installiert ist:
+
+- **Python 3.8 oder neuer**  
+  → Prüfen mit:
+  ```bash
+  python3 --version
+  ```
+  pip
+  ```
+  pip --version
+   ```
 
 ## Usage
 
@@ -28,11 +40,14 @@ CryptoDyaf is a user-friendly cryptocurrency dashboard that allows you to visual
     ```
 2. Set up virtual env
 ```
+   python3 -m venv venv
+
    source venv/bin/activate
    ```
 
 4. Install the necessary dependencies:
 ```
+pip install --upgrade pip
 pip install pandas
 pip install taipy
 ```
@@ -46,10 +61,14 @@ pip install taipy
     ```bash
     taipy run crypto.py
     ```
+6. Häufige Fehler & Lösungen : zb Fehler: Port 5000 already in use
+```
+taipy run crypto.py --port 5001
+```
 
-6. Access the dashboard through your web browser at ...(soon).
+7. Access the dashboard through your web browser at ...(soon).
 
-7. Use the dropdown menus to select cryptocurrencies and explore the data and insights.
+8. Use the dropdown menus to select cryptocurrencies and explore the data and insights.
 
 ## Dependencies
 
