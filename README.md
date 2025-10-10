@@ -52,9 +52,9 @@ pip install pandas
 pip install taipy
 ```
 
-    ```bash
+```bash
     pip install -r requirements.txt
-    ```
+```
 
 5. Run the `crypto.py` script to launch the CryptoMate dashboard:
 
