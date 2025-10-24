@@ -79,4 +79,9 @@ taipy run crypto.py --port 5001
 
 This project utilizes the `taipy` library for building the interactive dashboard.
 
+## Further information
+
+The project was developed locally and carefully structured.
+The commit history on GitHub reflects the most important development steps;
+some micro-commits have been combined for clarity.
 
